@@ -1,1 +1,5 @@
 Operating Systems: It is the interface between the user and the computer hardware.
+
+Types of Operating System (OS):
+
+1. Batch OS – A set of similar jobs are stored in the main memory for execution. A job gets assigned to the CPU, only when the execution of the previous job completes.
